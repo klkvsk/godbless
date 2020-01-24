@@ -1,0 +1,11 @@
+{
+    "name": "klkvsk/godbless",
+    "description": "Да благословит Господь извилистые пути ваших if-ов",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": [ "src" ]
+    }
+}
